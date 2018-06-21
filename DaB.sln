@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaB", "DaB\DaB.csproj", "{5EB1FCEE-86A1-4B9A-8564-EA3DB69BC561}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionalTestClient", "FunctionalTestClient\FunctionalTestClient.csproj", "{6BA41CC1-80E7-4CEF-A4EC-D374358290A7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DbCrawler", "DbCrawler", "{2D715E65-7EE2-44DF-8581-9A040996C5E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OracleDbCrawler", "OracleDbCrawler\OracleDbCrawler.csproj", "{F3B45442-D4B4-488D-B1D6-909A77BB2F94}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FileAna", "FileAna", "{7DD7B388-AF35-403B-B709-52F86F8D4F5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextFileAna", "TextFileAna\TextFileAna.csproj", "{7849489B-DF6F-43FA-8530-CD86AA357726}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssemblyGenterator", "AssemblyGenterator\AssemblyGenterator.csproj", "{E8CF3025-3745-417A-B05A-1B4092A2F487}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EB1FCEE-86A1-4B9A-8564-EA3DB69BC561}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EB1FCEE-86A1-4B9A-8564-EA3DB69BC561}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EB1FCEE-86A1-4B9A-8564-EA3DB69BC561}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EB1FCEE-86A1-4B9A-8564-EA3DB69BC561}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BA41CC1-80E7-4CEF-A4EC-D374358290A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BA41CC1-80E7-4CEF-A4EC-D374358290A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BA41CC1-80E7-4CEF-A4EC-D374358290A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BA41CC1-80E7-4CEF-A4EC-D374358290A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3B45442-D4B4-488D-B1D6-909A77BB2F94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3B45442-D4B4-488D-B1D6-909A77BB2F94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3B45442-D4B4-488D-B1D6-909A77BB2F94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3B45442-D4B4-488D-B1D6-909A77BB2F94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7849489B-DF6F-43FA-8530-CD86AA357726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7849489B-DF6F-43FA-8530-CD86AA357726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7849489B-DF6F-43FA-8530-CD86AA357726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7849489B-DF6F-43FA-8530-CD86AA357726}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8CF3025-3745-417A-B05A-1B4092A2F487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8CF3025-3745-417A-B05A-1B4092A2F487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8CF3025-3745-417A-B05A-1B4092A2F487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8CF3025-3745-417A-B05A-1B4092A2F487}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F3B45442-D4B4-488D-B1D6-909A77BB2F94} = {2D715E65-7EE2-44DF-8581-9A040996C5E2}
+		{7849489B-DF6F-43FA-8530-CD86AA357726} = {7DD7B388-AF35-403B-B709-52F86F8D4F5A}
+		{E8CF3025-3745-417A-B05A-1B4092A2F487} = {2D715E65-7EE2-44DF-8581-9A040996C5E2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C862E5DF-6457-4CF4-84B4-C25053E715D0}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\hanha1\source\repos\DaB\FunctionalTestClient\bin\Debug\FunctionalTestClient.exe.config
+C:\Users\hanha1\source\repos\DaB\FunctionalTestClient\bin\Debug\FunctionalTestClient.exe
+C:\Users\hanha1\source\repos\DaB\FunctionalTestClient\bin\Debug\FunctionalTestClient.pdb
+C:\Users\hanha1\source\repos\DaB\FunctionalTestClient\bin\Debug\OracleDbCrawler.dll
+C:\Users\hanha1\source\repos\DaB\FunctionalTestClient\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\hanha1\source\repos\DaB\FunctionalTestClient\bin\Debug\OracleDbCrawler.pdb
+C:\Users\hanha1\source\repos\DaB\FunctionalTestClient\bin\Debug\OracleDbCrawler.dll.config
+C:\Users\hanha1\source\repos\DaB\FunctionalTestClient\obj\Debug\FunctionalTestClient.csprojResolveAssemblyReference.cache
+C:\Users\hanha1\source\repos\DaB\FunctionalTestClient\obj\Debug\FunctionalTestClient.csproj.CoreCompileInputs.cache
+C:\Users\hanha1\source\repos\DaB\FunctionalTestClient\obj\Debug\FunctionalTestClient.csproj.CopyComplete
+C:\Users\hanha1\source\repos\DaB\FunctionalTestClient\obj\Debug\FunctionalTestClient.exe
+C:\Users\hanha1\source\repos\DaB\FunctionalTestClient\obj\Debug\FunctionalTestClient.pdb

@@ -1,0 +1,6 @@
+C:\Users\hanha1\source\repos\DaB\AssemblyGenterator\bin\Debug\AssemblyGenterator.dll
+C:\Users\hanha1\source\repos\DaB\AssemblyGenterator\bin\Debug\AssemblyGenterator.pdb
+C:\Users\hanha1\source\repos\DaB\AssemblyGenterator\obj\Debug\AssemblyGenterator.csprojResolveAssemblyReference.cache
+C:\Users\hanha1\source\repos\DaB\AssemblyGenterator\obj\Debug\AssemblyGenterator.csproj.CoreCompileInputs.cache
+C:\Users\hanha1\source\repos\DaB\AssemblyGenterator\obj\Debug\AssemblyGenterator.dll
+C:\Users\hanha1\source\repos\DaB\AssemblyGenterator\obj\Debug\AssemblyGenterator.pdb

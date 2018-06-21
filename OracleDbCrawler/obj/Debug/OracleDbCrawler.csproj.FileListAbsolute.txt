@@ -1,0 +1,11 @@
+C:\Users\hanha1\source\repos\DaB\OracleDbCrawler\bin\Debug\OracleDbCrawler.dll.config
+C:\Users\hanha1\source\repos\DaB\OracleDbCrawler\bin\Debug\OracleDbCrawler.dll
+C:\Users\hanha1\source\repos\DaB\OracleDbCrawler\bin\Debug\OracleDbCrawler.pdb
+C:\Users\hanha1\source\repos\DaB\OracleDbCrawler\bin\Debug\AssemblyGenterator.dll
+C:\Users\hanha1\source\repos\DaB\OracleDbCrawler\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\hanha1\source\repos\DaB\OracleDbCrawler\bin\Debug\AssemblyGenterator.pdb
+C:\Users\hanha1\source\repos\DaB\OracleDbCrawler\obj\Debug\OracleDbCrawler.csprojResolveAssemblyReference.cache
+C:\Users\hanha1\source\repos\DaB\OracleDbCrawler\obj\Debug\OracleDbCrawler.csproj.CoreCompileInputs.cache
+C:\Users\hanha1\source\repos\DaB\OracleDbCrawler\obj\Debug\OracleDbCrawler.csproj.CopyComplete
+C:\Users\hanha1\source\repos\DaB\OracleDbCrawler\obj\Debug\OracleDbCrawler.dll
+C:\Users\hanha1\source\repos\DaB\OracleDbCrawler\obj\Debug\OracleDbCrawler.pdb
